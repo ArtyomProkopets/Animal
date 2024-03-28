@@ -31,15 +31,15 @@ class Animal{
 
 enum class Breed {
   Labrador,
-  Beagle,
-  Bulldog,
-  Poodle,
-  GermanShepherd,
-  Boxer,
-  GoldenRetriever,
-  SiberianHusky,
+  Yorkshire_terrier,
   Dachshund,
-  ShihTzu
+  Chihuahua,
+  Bulldog,
+  Husky,
+  Corgi,
+  Newfoundland,
+  Chow_Chow,
+  Rottweiler
 };
 
 class Dog: public Animal{
